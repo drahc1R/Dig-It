@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/introCut.unity
+    guid: 233ebcb9d815ac041a08ac9b96fb0fc6
+  - enabled: 1
+    path: Assets/beginning scene.unity
+    guid: 8d5bf08f1e13b427dacbf37bb6a2296c
+  - enabled: 1
+    path: Assets/Instructions.unity
+    guid: ea4bfcf1a8800724d9f4d90dc0d2931a
+  - enabled: 1
+    path: Assets/tips.unity
+    guid: ea9af72d5f5c30c4bb11bedaeb9b38ae
+  - enabled: 1
+    path: Assets/Level_1.unity
+    guid: 313165675aa0ee44e9fd7d8a2d346f94
+  - enabled: 1
+    path: Assets/gameOver.unity
+    guid: 2d64ecd638ec20b4a82c45f307655423
+  - enabled: 1
+    path: Assets/Level_2.unity
+    guid: 65b46cc854b31a94b9879c3870241944
+  - enabled: 1
+    path: Assets/gameOver (level 2).unity
+    guid: 72d203276fe294c4cbea8fa18e342829
+  - enabled: 1
+    path: Assets/Level_3.unity
+    guid: bab7d5643ceeb894e8fd1f5eb14687ea
+  - enabled: 1
+    path: Assets/gameOver (level 3).unity
+    guid: 011b60891093ff54cbebb20b3ccd32be
+  - enabled: 1
+    path: Assets/lvl4/Level_4.unity
+    guid: 6ba0ca6ca325dcf47aaaa8ccd6637341
+  - enabled: 1
+    path: Assets/gameOver (level 4).unity
+    guid: 6893a9c779bff194c98f9c22cb4d4dc0
+  - enabled: 1
+    path: Assets/YouWon.unity
+    guid: e5320830b0df19a4e96447fc765b8f87
+  - enabled: 1
+    path: Assets/special thanks.unity
+    guid: 4340678bf8b902142b6b98011d6f9ee6
+  - enabled: 1
+    path: Assets/credits.unity
+    guid: aec0b535a5d09d84ca03502c4ce4e372
+  - enabled: 0
+    path: Assets/Dig It.unity
+    guid: 8327689dff9079f4d8ff1f1f4d160c70
+  - enabled: 0
+    path: Assets/level_layout.unity
+    guid: 20fb5c1b3d8dea74d8f33c013d87e5b3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
